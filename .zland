@@ -1,0 +1,6 @@
+{
+  "name": "zland debug console",
+  "resolveAlias": "debugConsole",
+  "author": "Florian Biewald",
+  "canvasViews": ["components/DebugConsole", "components/DebugConsoleButton"]
+}

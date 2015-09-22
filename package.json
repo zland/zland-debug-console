@@ -1,0 +1,49 @@
+{
+  "name": "zland-debug-console",
+  "version": "0.1.0",
+  "author": "Florian Biewald <florian@zland.io>",
+  "devDependencies": {
+    "backbone": "~1.1.2",
+    "bluebird": "~2.9.24",
+    "bootstrap": "~3.3.4",
+    "browser-sync": "~1.7.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.2",
+    "css-loader": "~0.9.0",
+    "file-loader": "^0.8.1",
+    "font-awesome": "~4.3.0",
+    "gulp": "~3.8.10",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-markdox": "^0.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.4",
+    "gulp-webpack": "^1.3.2",
+    "gulp-zlanddoc": "^0.1.9",
+    "handlebars": "^3.0.3",
+    "jasmine": "~2.2.1",
+    "jquery": "^2.1.4",
+    "jquery-translate3d": "*",
+    "json-loader": "^0.5.1",
+    "moment": "~2.10.2",
+    "node-sass": "^3.1.2",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^1.0.2",
+    "style-loader": "~0.8.0",
+    "underscore": "~1.8.3",
+    "url-loader": "~0.5.5",
+    "zland-core": "^0.1.0",
+    "zland-map": "^0.1.0"
+  },
+  "description": "zland debug console",
+  "keywords": [
+    "zland",
+    "zombie",
+    "real world"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zland/zland-debug-console.git"
+  },
+  "license": "Apache-2.0",
+  "homepage": "http://zland.io"
+}
